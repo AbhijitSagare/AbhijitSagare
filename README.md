@@ -25,6 +25,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitsagare&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitsagare" /> </p>
 
+✔ I’m currently learning **Shell Scripting, Docker and Kubernetes**<br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ I’m looking for DevOps related **Work Opportunities**<br>
+✔ Ask me about anything, if you are stuck with the problems in my basket😉<br>
+✔ Fun fact : *I am highly at peace with the world going so fast.*<br><br>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijitsagare" alt="abhijitsagare" /></a> </p>
 
 - 🔭 I’m currently working on **terraform ci/cd pipeline**
