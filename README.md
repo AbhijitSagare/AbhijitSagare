@@ -8,6 +8,7 @@
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=Aws)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
